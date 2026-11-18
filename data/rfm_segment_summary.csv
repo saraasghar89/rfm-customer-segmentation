@@ -1,0 +1,11 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,% Customers,% Revenue,Marketing Action
+About to Sleep,385,107.1,1.4,530.8,204349.7,6.5,1.2,"Re-engage with popular products and a ""we miss you"" discount"
+At Risk,753,372.7,3.9,1348.3,1015248.4,12.8,5.8,"Personalised win-back emails, special discounts, ask for feedback"
+Can't Lose Them,71,331.2,15.9,8086.4,574135.9,1.2,3.3,"High-priority win-back: personal outreach, exclusive offers, find out why they left"
+Champions,837,8.6,19.3,10646.5,8911085.8,14.2,51.3,"Reward them: VIP program, early access to new products, ask for reviews/referrals"
+Hibernating,1523,459.3,1.3,429.7,654426.7,25.9,3.8,Low-cost re-activation campaign; remove from regular mailing if no response
+Loyal Customers,1161,67.1,9.8,4138.8,4805172.8,19.8,27.7,"Upsell higher-value products, loyalty points, personalised recommendations"
+Need Attention,266,113.4,3.2,1273.7,338799.3,4.5,1.9,Limited-time offers based on past purchases
+New Customers,54,10.5,1.0,359.7,19426.3,0.9,0.1,"Welcome email series, onboarding tips, small discount on 2nd order"
+Potential Loyalists,714,25.8,2.6,1142.7,815892.0,12.1,4.7,"Offer membership or loyalty program, recommend related products"
+Promising,114,38.8,1.0,318.1,36267.3,1.9,0.2,"Build awareness: free shipping offer, highlight best-sellers"

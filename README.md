@@ -1,6 +1,10 @@
 # Customer Segmentation Using RFM Analysis
 
-![Streamlit dashboard](images/streamlit_dashboard.png)
+**🔗 Live dashboard:** [https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/](https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/)
+
+[![Streamlit dashboard](images/streamlit_dashboard.png)](https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/)
 
 ## Project Overview
 Not all customers are equally valuable. This project scores the 5,878 customers of a UK online gift retailer on **Recency, Frequency and Monetary value (RFM)**, groups them into 10 behavioural segments, and recommends a marketing action for each segment. The results are explored in an interactive **Streamlit dashboard**.
@@ -89,6 +93,8 @@ Python · Pandas · Matplotlib · Seaborn · Plotly · Streamlit · Google Colab
 | Hibernating | Low-cost re-activation; remove from regular mailing if no response |
 
 ## Interactive Dashboard (Streamlit)
+**Try it live:** [https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/](https://rfm-customer-segmentation-5tox6mjhezoczba3wgd24e.streamlit.app/)
+
 The dashboard uses **Maple & Thread Gifts**, a fictional brand created for this demo.
 
 - **Overview:** KPIs, customers vs revenue by segment (click a bar to explore it), revenue donut, summary table
@@ -96,6 +102,8 @@ The dashboard uses **Maple & Thread Gifts**, a fictional brand created for this 
 - **RFM patterns:** heatmaps and a bubble chart of every customer
 - **Campaign planner:** what-if tool that estimates responders, revenue and ROI for a campaign
 - **Customer lookup:** search any customer ID and download the filtered list
+
+The free Streamlit app goes to sleep after a few days without visits. If you see a "wake up" button, click it and wait about 30 seconds.
 
 **Run it locally:**
 ```bash
